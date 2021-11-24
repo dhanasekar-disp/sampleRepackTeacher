@@ -1,0 +1,9 @@
+{
+  "id": "test",
+  "name": "test",
+  "files": ["index.bundle"],
+  "auxiliaryFiles": [
+    "assets/node_modules/react-native/Libraries/NewAppScreen/components/logo.png",
+    "index.bundle.map"
+  ]
+}
